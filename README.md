@@ -3,3 +3,7 @@ I’m an entry-level cybersecurity professional with a strong foundation in netw
 I recently completed <a href="https://www.ironhack.com/gb/cybersecurity/remote" target:_blank noopener noreferer>IronHack bootcamp</a>, where I gained hands-on experience with security tools, incident response, and vulnerability assessments. 
 What excites me most about this field is protecting organizations against evolving threats and helping teams strengthen their security posture. 
 I’m eager to bring my technical skills, problem-solving mindset, and continuous learning attitude to a team where I can contribute to safeguarding systems and grow into a well-rounded security professional.
+
+# Experience
+02/2025 - 05/2025 Accenture Fundaula SOC N1 analyst course
+09/2025 - 03/2026 Ironhack bootcamp
