@@ -5,7 +5,7 @@ What excites me most about this field is protecting organizations against evolvi
 I’m eager to bring my technical skills, problem-solving mindset, and continuous learning attitude to a team where I can contribute to safeguarding systems and grow into a well-rounded security professional.
 
 # Experience
-<ol>
+<ul>
   <li>02/2025 - 05/2025 Accenture Fundaula SOC N1 analyst course</li>
   <li>09/2025 - 03/2026 Ironhack bootcamp</li>
-</ol>
+</ul>
