@@ -6,6 +6,11 @@ I’m eager to bring my technical skills, problem-solving mindset, and continuou
 
 # Experience
 <ul>
-  <li>02/2025 - 05/2025 Accenture Fundaula SOC N1 analyst course</li>
-  <li>09/2025 - 03/2026 Ironhack bootcamp</li>
+  <li>00/0000 - 00/0000 TBD</li>
+</ul>
+
+# Courses
+<ul>
+  <li>02/2025 - 05/2025: Accenture Fundaula SOC N1 analyst course</li>
+  <li>09/2025 - 03/2026: Ironhack bootcamp</li>
 </ul>
